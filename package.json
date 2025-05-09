@@ -1,0 +1,29 @@
+{
+  "name": "week7_assignment_lost_and_found_system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codawise-onyekachi/WEEK7_Assignment_Lost_but_Found_System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codawise-onyekachi/WEEK7_Assignment_Lost_but_Found_System/issues"
+  },
+  "homepage": "https://github.com/codawise-onyekachi/WEEK7_Assignment_Lost_but_Found_System#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
